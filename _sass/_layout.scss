@@ -1,0 +1,207 @@
+#banner {
+    @include retina-background-image($img-banner);
+    background-color: #8e8387;
+    outline: none;
+    display: block;
+    width: $banner-width;
+    height: $banner-height;
+    margin: 0 auto 35px;
+    position: relative; /* To ensure the bottom border is positioned correctly */
+
+    h1 {
+        // Font is included from Google Fonts automatically unless a custom banner is used
+        // See _config.yml for details
+        font-family: $banner-font-family;
+        font-size: 24px;
+        font-weight: 400;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #fefefe;
+        position: absolute;
+        bottom: 20px;
+        width: 100%;
+    }
+
+    &::after {
+        display: block;
+        position: absolute;
+        top: $banner-height;
+        left: $banner-border-offset;
+        content: "";
+        background: #443E40;
+        height: $banner-border-width;
+        width: $banner-width - ($banner-border-offset * 2);
+    }
+
+    @include min-breakpoint($image-splitting-breakpoint) {
+        margin-bottom: $banner-margin;
+    }
+}
+
+#footer {
+    margin-top: 50px;
+    text-align: center;
+    /*position: relative;*/
+
+    a {
+        // Overwrite default link color
+        color: #222;
+
+        &:hover {
+            // ... but allow the hover color to work as normal
+            color: $hover-color;
+        }
+    }
+
+    p {
+        margin: 0 0 9px;
+        line-height: 1.3;
+        font-size: 19px;
+        max-width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+
+        @include min-breakpoint($image-splitting-breakpoint) {
+            font-size: 18px;
+            line-height: 1;
+        }
+    }
+}
+/*
+section[role="main"] {
+    width: 90%;
+    margin: 0 auto;
+
+    @include min-breakpoint($desktop-breakpoint) {
+        width: $layout-width;
+    }
+}*/
+
+/* Social */
+.social {
+    margin-top: 50px;
+    text-align: right;
+
+    a {
+        // Overwrite default link color
+        color: #222;
+
+        &:hover {
+            // ... but allow the hover color to work as normal
+            color: $hover-color;
+        }
+    }
+
+    /*display: block;*/
+    /*position: relative;*/ /* To ensure the bottom border is positioned correctly */
+    /*float: right;*/
+    /*width: 175px;*/
+}
+
+footer[class='social'] a {
+    background-repeat: no-repeat;
+    background-position: 3px 6px;
+    padding-left: 25px;
+}
+
+/* Icons */
+.social a[href*='about.me'] {background-image: url('../img/icons/aboutme.png');}
+.social a[href*='bitbucket.org'] {background-image: url('../img/icons/bitbucket.png');}
+.social a[href*='delicious.com'] {background-image: url('../img/icons/delicious.png');}
+.social a[href*='digg.com'] {background-image: url('../img/icons/digg.png');}
+.social a[href*='twitter.com'] {background-image: url('../img/icons/twitter.png');}
+.social a[href*='gitorious.org'] {background-image: url('../img/icons/gitorious.png');}
+.social a[href*='github.com'],
+.social a[href*='git.io'] {
+    background-image: url('../img/icons/github.png');
+    background-size: 16px 16px;
+}
+
+ /* Style the Image Used to Trigger the Modal */
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+section[role="main"] {
+    width: 90%;
+    margin: 0 auto;
+
+    @include min-breakpoint($desktop-breakpoint) {
+        width: $layout-width;
+    }
+}
