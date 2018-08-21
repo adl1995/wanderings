@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanderings</title>
+    <description></description>
+    <link>http://localhost:4000/wanderings/</link>
+    <atom:link href="http://localhost:4000/wanderings/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Apr 2020 08:36:01 +0500</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2020 08:36:01 +0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Trip to Spain</title>
+        <description>&lt;!-- &lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1wKtBBTaog3GAnZF2xEiMzZuhY68LFedJ&amp;hl=en&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt; --&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: left;&quot; src=&quot;/photos/maps/spain-trip-animated.svg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+During the Christmas holidays in December 2018, I visited Spain and spent 2 weeks travelling along the coastal cities.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+I started my journey in Barcelona, where I spent 2 days which also included a day trip to Girona. Girona recently gained traction for being the shooting spot for the Game of Thrones series. From Barcelona, I took a train along the coast to Valencia, and after soaking its splendour I visited a small historical town called Cartagena, and then made my way to a famous beach town, named Almería. I imagined the south of Spain to be warmer compared to the north, but was surprised to find snow on mountain tops in Granada. It even had a ski resort up there. Nerja was also a beautiful city with white houses where many retirees lived from the UK and abroad. I ended my trip in the port city of Malaga where I spent just one night and then flew to Belgium. In total I spent 7 nights in Spain, renting out AirBnBs in each city I visited.&lt;/p&gt;
+
+&lt;div class=&quot;blog-item&quot; style=&quot;background-color: #d9edf7;&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/barcelona&quot;&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/barcelona-16-12-2018/161218_170340_IMG0242_raw.JPG&quot; /&gt;
+   &lt;h2 class=&quot;post-title&quot;&gt;Barcelona&lt;/h2&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;I started my journey from this beautiful (but crowded) city. Soon after landing I rented a bike and spent the next 2 days exploring the old town and other historical buildings.&lt;/p&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog-item&quot; style=&quot;background-color: #719bea;&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/girona&quot;&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/girona-17-12-2018/171218_174357_IMG0529_raw.JPG&quot; /&gt;
+   &lt;h2 class=&quot;post-title&quot;&gt;Girona&lt;/h2&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;At just an hours' train ride from Barcelona is the scenic city of Girona, a small town whose cathedral was featured in the Game of Thrones series.&lt;/p&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog-item&quot; style=&quot;background-color: #cee3a6;&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/valencia&quot;&gt;
+   &lt;img class=&quot;blog-item-img portrait&quot; src=&quot;/photos/spain/valencia-18-12-2018/181218_164154_IMG0800_raw.JPG&quot; /&gt;
+   &lt;h2 class=&quot;post-title&quot;&gt;Valencia&lt;/h2&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;A city with numerous promenades laden with orange trees and graffiti drawings, Valencia had much to offer.&lt;/p&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog-item&quot; style=&quot;background-color: #d2b9b8;&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/cartagena&quot;&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/cartagena-19-12-2018/191218_170433_IMG1064_raw.JPG&quot; /&gt;
+   &lt;h2 class=&quot;post-title&quot;&gt;Cartagena&lt;/h2&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;A port city with an iconic view of the sea, Cartagena was a laid-back and fascinating city. Some prominent destinations included the Roman Theatre and a university.&lt;/p&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog-item&quot; style=&quot;background-color: #f4c7b0;&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/almeria&quot;&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/almeria-20-12-2018/201218_161435_IMG1415_raw.JPG&quot; /&gt;
+   &lt;h2 class=&quot;post-title&quot;&gt;Almería&lt;/h2&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;A quiet city with a colourful Christmas market, sandy beaches, and a spectacular fortress from the Moorish era.&lt;/p&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;style media=&quot;screen&quot;&gt;
+  /* tell the container's children to float left: */
+  .float-my-children &gt; * {
+      float:left;
+      margin-right:5px;
+  }
+
+  /* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
+
+  .clearfix {
+      *zoom:1 /* for IE */
+  }
+
+  .clearfix:before,
+  .clearfix:after {
+      content: &quot; &quot;;
+      display: table;
+  }
+
+  .clearfix:after {
+      clear: both;
+  }
+
+  /* end clearfix*/
+
+  /* below is just to make things easier to see, not required */
+  body &gt; div {
+      border:1px dashed red;
+      margin-bottom:10px;
+  }
+&lt;/style&gt;
+
+</description>
+        <pubDate>Mon, 17 Dec 2018 09:00:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/spain</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/spain</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Sion and Vex</title>
+        <description>&lt;p&gt;Sion is famous for the Tourbillon Castle and Valère Basilica which are located on a hilltop in the city center. I went there on a sunny Saturday morning on the SBB train which passed through Laussane, Montreux, and Martigny. The journey takes about an hour and 45 minutes and goes around Lake Geneva.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181013_011711.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181013_011711.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Upon arriving I went straight to the Tourbillon Castle. After asking around how to reach the hilltop I found that the castle was closed (and would reopen later during the day) so I instead went to Valère Basilica, which was located on the opposite side of the hill.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_104721.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_104721.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_111829_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_111829_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181013_012215.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181013_005456_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_104727.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The church was going through renovation work, and some parts were closed for tourists. It provided spectacular views of the city and the mountains.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_105448.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_105448.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_111649_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_111649_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_105500.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_105007.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_104736.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181013_012006.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181013_012006.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_105306.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_105306.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Since the city is surrounded by mountains, there are numerous tourist attractions on the outskirts of the city. I decided to go to the Bisse Savièse Torrent-Neuf which is located in the commune of Savièse. It is located about 9 KMs away from Sion, however, it has an elevation of 1236 meters (with Sion having an elevation of only 520 meters).&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_134653.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_134653.jpg&quot; /&gt;20180817_081601_HDR.jpg
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;I brought my folding bicycle with me but it proved to be futile against the steep elevation gain, so I had to drag it uphill which took around 2 hours (but the views were very pleasant). On my way to the bisse I passed through some villages and found a variety of cows with bells tied around their neck and a few rabbits.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_153020.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_153020.jpg&quot; /&gt;20180817_081601_HDR.jpg
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_121254.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_133247.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_162542.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Torrent-Neuf is a suspension bridge which was built during the mid-15th century for creating water channels to the city. The site is now restored and remains a popular tourist attraction.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_150152_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_150152_HDR.jpg&quot; /&gt;20180817_081601_HDR.jpg
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_145122.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_145122.jpg&quot; /&gt;20180817_081601_HDR.jpg
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_134656.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_145120.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_125504.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_145946.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_150234.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_135210.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_151248.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_151248.jpg&quot; /&gt;20180817_081601_HDR.jpg
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I came back to the city before evening. From there I was to go to Vex, where I would be spending the night. This village is also located on a hilltop (on the opposite side of Savièse). Although its elevation is less (943 meters) compared to Savièse, it is about 7 KMs away from Sion, so the gain is much steeper. Again, it proved to be faster to walk rather than bike uphill. There was only one road which went to the village, but I found a small street which allowed me to cut through one turn. I reach to the hilltop during late evening, and went straight to the AirBnB I had booked. The room was very comforting after the long journey.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_191435.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181103_191435.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;On the next morning, I went out to explore the village. The house tenants were taking their skis for waxing to prepare for the upcoming season. I first went to a Boulangerie and bought some croissants. There were numerous small farms in the village, and being on a hilltop it overlooked Sion and other surrounding places.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_110518.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_110518.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_104541_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_104541_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_111747.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_111747.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_112120.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_104532.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_112539.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I found on Google Maps that there was a waterfall nearby, but I could not find it. I also found a castle, but there was no visible entrance.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_103449.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_103449.jpg&quot; /&gt;20180817_081601_HDR.jpg
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;The ride back to Sion was very fun, as can be imagined because of the abrupt elevation drop. To go down from the mountain took me no more than 15 minutes, which had taken me around 2 hours when going up. From there I caught my train back to Geneva.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_133146.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_133146.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_133151.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_120651.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sion-vex-03-11-2018/20181104_132353.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 03 Nov 2018 08:00:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/sion-vex</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/sion-vex</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Bern, Fribourg, and Murten</title>
+        <description>&lt;p&gt;Bern, the capital city of Switzerland, is situated in the about 120 KMs to the west of Zürich, the largest city of Switzerland. The majority of the population speaks Bernese German.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_015030.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_015030.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Aare&quot;&gt;Aare river&lt;/a&gt; stretches along the entire city due to which there are many bridges. The city is built on an uneven ground. An elevation difference of several meters exists between the city center and its outskirts.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_014410.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_014410.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_014053.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_020259.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_011146.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;According to a local legend, the city is named after “bear”, as it was the first animal hunted by the city founder. The city center contains many museums, street art, and souvenir shops.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_010702.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_010702.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_010724.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_010724.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_012520.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_012520.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_012527.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_010600.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_010924.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_013423.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_013423.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Fribourg is situated about 30 KMs to the west of Bern. It has a population of around 38,000 with mostly French speaking inhabitants. The University of Fribourg enrolls 10,000 students and contains five faculties which are based around socials sciences, humanities, and economics.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180927_235936.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180927_235936.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_000130.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_000117.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180927_235551.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_000653.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_000653.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;About 10 KMs from Fribourg there is a village called Barberêche.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_074457.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_074457.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_073655.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_073655.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_073520.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_073520.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The farm was called “Ferme du Petit-Vivy” and contained tipis and and a barn house for guests.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_081900.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_081900.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_003655.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_003655.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_112337.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_003740.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_003800.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_004029.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_004029.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_005721.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_004708.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_003817.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_004102.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_004102.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_081354.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_081354.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The host provided a nice homemade Swiss breakfast in the morning.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_205221_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_205221_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At an hours bike ride from the farm lies the city of Murten, which is part of the canton of Fribourg.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_075634.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180928_075634.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_025741.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_025741.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_023054.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_024000.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_023955.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_024730.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_024730.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The lake Murten is famous for sailing, wind surfing, and other water sports.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_025839.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_025839.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_032218.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_032750.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_032849.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_042116.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_042116.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_051113.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_051113.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_031643.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_031934.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_030436.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_044412.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_043344.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_032045.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_052814.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_052814.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_060646_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/bern-fribourg-murten-18-10-2018/20180929_060646_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 18 Oct 2018 21:56:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/bern-fribourg-murten</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/bern-fribourg-murten</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Les Ateliers de Marinette vintage shop in Lyon</title>
+        <description>&lt;p&gt;Les Ateliers de Marinette is a vintage shop located in the city of Lyon. The road besides the shop leads to the &lt;a href=&quot;https://adl1995.github.io/wanderings/lyon-basilica-botanique-jardin.html&quot;&gt;Basilique Notre-Dame de Fourvière&lt;/a&gt; and overlooks the Saône river.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_181532.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_181532.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Vintage items include posters, light bulbs, bottles, matchboxes, buttons, jars, etc. Some of the items date back to the early 1900’s.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180006.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180006.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_175948.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_175958.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180013.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180218.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180218.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180224.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180237.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180412.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180326.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180326.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180420.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180548.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180545.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180046.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180046.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180026.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180026.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;Among other items, the shops also sells vintage polaroid cameras and films.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180101.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180101.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180108.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-vintage-shop/20181006_180108.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 07 Oct 2018 09:00:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/lyon-vintage-shop</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/lyon-vintage-shop</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>The Basilica of Notre-Dame de Fourvière, Jardin botanique, and the city of Lyon</title>
+        <description>&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_134820.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_134820.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Located in the east-central part of France, Lyon is the country’s third largest city. It is known for its architectural landmarks and is titled the Capital of Lights because of the light festival “Fête des Lumières” that is held each year in December.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_155951.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_155951.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_140542.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_140347_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_160620.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;One prominent landmark of the city is the Basilica of Notre-Dame de Fourvière. It is located on top of the Fourvière hill and overlooks the entire city.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_163209.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_163209.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_171112.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_171112.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_170020.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_170634.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_164851.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_170924.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_170924.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There are narrow alleyways that lead of the church.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_160856.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_160856.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Just 500 meters from the church there is an ancient Roman theater, known as Théâtre Gallo Romain.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_173844.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_173844.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This theater was built around the 2nd century and can seat around 10,000 people.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_173535.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_173535.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_174312.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_175147.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181006_174336_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;Lyon has a comprehensive bike rental system called Vélo’v. The docking stations can be seen every few blocks.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_002251.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_002251.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Lyon Botanical Garden (or “Jardin botanique de Lyon”) is another prominent landmark of the city.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_121809.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_121809.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_121918.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_121918.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_122108.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_122132.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_122325.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Established in 1857, this is France’s largest municipal botanical garden.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_123707.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_123707.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_122628.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_122628.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The city of Lyon is very lively and there are numerous events organized throughout the year.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_135641_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_135641_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_140337.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_150846.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_135610.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This month, the “Run in Lyon” marathon was held, which aimed to donate money to a medical cause.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_125355.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/lyon-basilica-botanique-jardin/20181007_125355.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 06 Oct 2018 09:00:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/lyon-basilica-botanique-jardin</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/lyon-basilica-botanique-jardin</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Visit to La Cathédrale de Lausanne and shore of Lake Geneva</title>
+        <description>&lt;p&gt;Lausanne is the fourth-largest city of Switzerland, and is located on a hillside facing Lake Geneva. It is labeled as the “Olympic Capital” as it hosts the International Olympic Committee.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_151854.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_151854.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is about 62 kilometers away from Geneva, and it takes around 50 minutes get there by train. Agricultural land surrounds most of the route.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_142313.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_142313.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_142340.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_142602.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_140639.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The streets in Lausanne are very steep, with an elevation gain of about 80 meters per kilometer.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_172122.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_172122.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_174411.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_173918.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_172910.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_183952.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_183952.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Shoreside along Lake Geneva is filled with ferries and sailing boats, and also houses the Olympic Museum.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_151827.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_151827.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_151842.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_151905.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_153546.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On the opposite side of the city lies the Lausanne Cathedral, which was consecrated in 1275.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_174643.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_174643.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_175937.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_175937.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_175519.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_175519.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;It also provides a good vantage point for viewing the city.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_174919.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/visit-to-la-cathedrale-de-lausanne/20180930_174919.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 30 Sep 2018 14:02:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/visit-to-la-cathedrale-de-lausanne</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/visit-to-la-cathedrale-de-lausanne</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Marché de Plainpalais, Geneva</title>
+        <description>&lt;p&gt;Geneva’s largest Sunday market, also known as Marché de Plainpalais, is located in Plaine de Plainpalais, a public square in Geneva, just about 500 meters from river Arve.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_160744_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_160744_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;All shops are located on the public square, just beside a skatepark, which sell items including clothes, electric appliances, and crockeries.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155829_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155829_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_160026_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155916_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_160437_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Numerous cuisines can be found in this area, from regions of France, India, Iran, Italy, Mexico, Sudan, Switzerland, Syria, Thailand, and Turkey.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154258_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154258_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154609_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154609_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155443_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155550_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154323_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154221_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154240_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154543_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154309_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154309_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Some shops also sell specialty items including spices, mushrooms, and decor.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155734_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155734_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155538_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_155538_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154622_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154622_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And, as with most places in Geneva, there is drinkable water just around the corner.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154208_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/marche-de-plainpalais/20180902_154208_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 29 Sep 2018 16:55:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/marche-de-plainpalais</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/marche-de-plainpalais</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Hike to  Chalet de Narderan</title>
+        <description>&lt;p&gt;Crêt de la Neige is the highest mountain peak in the French territory around Geneva. It is located in the commune of Lélex, and provides a good vantage point for viewing the Mont Blanc, the Alps, and the Geneva river.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175024.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175024.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;The uphill hike begins from the commune of Thoiry, through its dense forest.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_185820.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_170459.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_170504.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_184804.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_184804.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_185848.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_183408_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_180919_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Farmers bring their cattle in this area for grazing. It is advised to keep distance from the animals, as the dogs kept for the protection of cattle can be hostile.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_170538.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_170538.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After a ~50 minutes hike, the first stopping point is called Objectif Gaïa. On the way to the peak there are several resting points from which the scenic views can be observed. One of them is Chalet de Narderan.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175503.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175503.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_180606_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175457.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175457.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175812.jpg	&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_180250.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/hike-to-chalet-de-narderan/20180905_175113.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Sep 2018 10:00:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/hike-to-chalet-de-narderan</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/hike-to-chalet-de-narderan</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Sunrise in Choully, Satigny</title>
+        <description>&lt;p&gt;Satigny is a municipality of the Canton of Geneva. Located just across the French commune, Saint-Genis-Pouilly, this municipality inhabits around 4,000 people. More than half of its area is used for agricultural purposes, and it is the largest wine-producing municipality in Switzerland.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_065435.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sunrise-choully/20180915_065435.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;p&gt;The municipality consists of several small villages. Among these, the village of Choully provides an excellent view of Geneva and the surrounding mountains. Since Geneva Airport is located at the heart of the city, planes can be seen landing and taking off almost every 5 minutes.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_070457_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sunrise-choully/20180915_070457_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_070506_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_070522_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_070959_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_071033_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sunrise-choully/20180915_071033_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_071713_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_072826_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_071600_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Watching the Sun emerge from the mountains is a delightful experience.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_072626_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sunrise-choully/20180915_072626_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_072839_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_073302_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_073040_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Besides grapes, numerous vegetables and plants are cultivated here, such as tomatoes, cabbages, and pumpkins.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_074754_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sunrise-choully/20180915_074754_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;French villages can be seen on the side opposite to Geneva.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/sunrise-choully/20180915_074849_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/sunrise-choully/20180915_074849_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 16 Sep 2018 18:50:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/sunrise-choully</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/sunrise-choully</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Foyer Résidence Schumann</title>
+        <description>&lt;p&gt;The Foyer Résidence Schumann is located in Saint-Genis-Pouilly, a commune in France with ~9000 population. It is located just 3 KMs away from Switzerland’s second most populous city, Geneva. Due to its close proximity to Geneva, many working class people choose to live here and commute to Switzerland everyday.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111051_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_111051_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111523.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_111523.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Officially referred to as the “CERN Hostel”, Schumann residence is a good temporary solution whilst looking for an apartment.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111246_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_111246_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111353.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111450.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111548.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;All rooms are equipped with a single bed, a refrigerator, a study table, a cupboard, and a bathroom.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_104223_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_104223_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_104056_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_104056_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;During my time here, I have collected a huge amount of coins. For now, they just sit there…&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_104819_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_104819_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Each floor has 10 rooms, attached with a kitchen and a laundry room. The stoves use induction for heating, which can reduce the cooking time by a significant margin.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180904_070902_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180904_070902_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+  &lt;div class=&quot;w3-row-padding&quot;&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180904_070914_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180904_070947_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;w3-container w3-third&quot;&gt;
+      &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180904_071002_HDR.jpg &quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There’s also a TV lounge, a bicycle shed, and several benches for sitting outside.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_111743.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_111743.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_110835_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_110835_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_110634_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_110634_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &amp;emsp;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/wanderings/photos/foyer-schumann/20180909_110607_HDR.jpg&quot; style=&quot;width:100%&quot; class=&quot;w3-hover-opacity&quot; /&gt;
+
+  &lt;div id=&quot;modal02&quot; class=&quot;w3-modal&quot;&gt;
+    &lt;img class=&quot;w3-modal-content&quot; src=&quot;/wanderings/photos/foyer-schumann/20180909_110607_HDR.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 09 Sep 2018 21:56:00 +0500</pubDate>
+        <link>http://localhost:4000/wanderings/foyer-schumann</link>
+        <guid isPermaLink="true">http://localhost:4000/wanderings/foyer-schumann</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
+    
+  </channel>
+</rss>

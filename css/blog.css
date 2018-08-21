@@ -1,0 +1,24 @@
+div.blog-item {
+  background-size: cover;
+  border-radius: 3%;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+img.blog-item-img {
+  float: left;
+  border-radius: 2%;
+  margin: 15px 15px 15px 15px;
+}
+
+img.blog-item-img.horizontal {
+  width: 350px;
+  height: auto;
+}
+img.blog-item-img.portrait {
+  width: auto;
+  height: 262.5px;
+}
+p.blog-summary {
+  margin-right: 15px;
+  text-decoration: none !important;
+}
