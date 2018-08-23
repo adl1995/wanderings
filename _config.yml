@@ -30,7 +30,7 @@ typekit_kit_id:
 # Build settings
 plugins: [jekyll-paginate]
 markdown: kramdown
-permalink: /:title
+permalink: /:title:output_ext
 
 twitter_username: "adl1995"
 github_username:  "adl1995"
