@@ -1,4 +1,12 @@
-The Foyer Schumann residence is located in Saint-Genis-Pouilly, a commune in France with ~9000 population. It is located just 3 KMs away from Switzerland's second most populous city, Geneva. Due to its close proximity to Geneva, many working class people choose to live here and commute to Switzerland everyday.
+---
+layout: post
+title:  "Foyer Résidence Schumann"
+date:   2018-09-09 21:56
+categories: travel
+location: Saint-Genis-Pouilly, France
+---
+
+The Foyer Résidence Schumann is located in Saint-Genis-Pouilly, a commune in France with ~9000 population. It is located just 3 KMs away from Switzerland's second most populous city, Geneva. Due to its close proximity to Geneva, many working class people choose to live here and commute to Switzerland everyday.
 
 <div>
   <img src="/wanderings/photos/foyer-schumann/20180909_111051_HDR.jpg" style="width:100%;cursor:pointer"
