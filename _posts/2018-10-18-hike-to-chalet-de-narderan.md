@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hike to  Chalet de Narderan"
+date:   2018-10-18 10:00
 <!-- date:   2018-09-22 10:00 -->
-<!-- date:   2018-10-18 10:00 -->
 categories: travel
 location: Le Tiocan, Thoiry, France
 ---
@@ -27,7 +27,7 @@ The uphill hike begins from the commune of Thoiry, through its dense forest.
 <div class="post-image">
   <div class="w3-row-padding">
     <div class="w3-container w3-third">
-      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_185820.jpg" style="width:100%;cursor:pointer"	
+      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_185820.jpg" style="width:100%;cursor:pointer"
       onclick="onClick(this)" class="w3-hover-opacity">
     </div>
     <div class="w3-container w3-third">
@@ -61,7 +61,7 @@ The uphill hike begins from the commune of Thoiry, through its dense forest.
 <div class="post-image">
   <div class="w3-row-padding">
     <div class="w3-container w3-third">
-      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_185848.jpg" style="width:100%;cursor:pointer"	
+      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_185848.jpg" style="width:100%;cursor:pointer"
       onclick="onClick(this)" class="w3-hover-opacity">
     </div>
     <div class="w3-container w3-third">
@@ -104,7 +104,7 @@ After a ~50 minutes hike, the first stopping point is called Objectif Gaïa. On 
 <div class="post-image">
   <div class="w3-row-padding">
     <div class="w3-container w3-third">
-      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_180606_HDR.jpg" style="width:100%;cursor:pointer"	
+      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_180606_HDR.jpg" style="width:100%;cursor:pointer"
       onclick="onClick(this)" class="w3-hover-opacity">
     </div>
     <div class="w3-container w3-third">
@@ -125,7 +125,7 @@ After a ~50 minutes hike, the first stopping point is called Objectif Gaïa. On 
 <div class="post-image">
   <div class="w3-row-padding">
     <div class="w3-container w3-third">
-      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_175812.jpg	" style="width:100%;cursor:pointer"	
+      <img src="/wanderings/photos/hike-to-chalet-de-narderan/20180905_175812.jpg	" style="width:100%;cursor:pointer"
       onclick="onClick(this)" class="w3-hover-opacity">
     </div>
     <div class="w3-container w3-third">
@@ -138,10 +138,3 @@ After a ~50 minutes hike, the first stopping point is called Objectif Gaïa. On 
     </div>
   </div>
 </div>
-
-<script>
-function onClick(element) {
-  document.getElementById("img01").src = element.src;
-  document.getElementById("modal01").style.display = "block";
-}
-</script>
