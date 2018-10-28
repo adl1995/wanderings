@@ -178,10 +178,3 @@ There's also a TV lounge, a bicycle shed, and several benches for sitting outsid
     <img class="w3-modal-content" src="/wanderings/photos/foyer-schumann/20180909_110607_HDR.jpg">
   </div>
 </div>
-
-<script>
-function onClick(element) {
-  document.getElementById("img01").src = element.src;
-  document.getElementById("modal01").style.display = "block";
-}
-</script>

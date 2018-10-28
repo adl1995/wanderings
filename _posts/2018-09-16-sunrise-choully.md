@@ -136,10 +136,3 @@ French villages can be seen on the side opposite to Geneva.
     <img class="w3-modal-content" src="/wanderings/photos/sunrise-choully/20180915_074849_HDR.jpg">
   </div>
 </div>
-
-<script>
-function onClick(element) {
-  document.getElementById("img01").src = element.src;
-  document.getElementById("modal01").style.display = "block";
-}
-</script>
