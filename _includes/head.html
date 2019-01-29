@@ -24,10 +24,22 @@
         })(document);
       </script>
   {% endif %}
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Press+Start+2P|VT323" rel="stylesheet">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700|Sanchez" type="text/css">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="{{ "/css/screen.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <style type="text/css">
+    img {
+      cursor: zoom-in;
+    }
+  </style>
 </head>
+
+<div class="modal fade" id="enlargeImageModal" tabindex="-1" role="dialog" aria-labelledby="enlargeImageModal" aria-hidden="true">
+  <img src="" class="enlargeImageModalSource modal-content" style="width: 100%;">
+</div>

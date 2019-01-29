@@ -4,3 +4,12 @@
     </li><a href="https://twitter.com/{{ site.github_username }}" target="_blank">Twitter</a></strong></p></li>
     <p class="legal">{{ site.author_description }}</p>
 </footer>
+
+<script type="text/javascript">
+  $(function() {
+      $('img').on('click', function() {
+      $('.enlargeImageModalSource').attr('src', $(this).attr('src'));
+      $('#enlargeImageModal').modal('show');
+    });
+  });
+</script>
