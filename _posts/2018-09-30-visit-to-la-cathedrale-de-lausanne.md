@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Visit to La Cathédrale de Lausanne and shore of Lake Geneva"
-date:   2018-10-28 21:55
-<!-- date:   2018-09-xx 10:00 -->
+date:   2018-09-30 14:02
+<!-- date:   2018-10-28 21:55 -->
 categories: travel
 location: Lausanne, Switzerland
 ---

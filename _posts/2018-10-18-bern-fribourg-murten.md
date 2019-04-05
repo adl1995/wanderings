@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bern, Fribourg, and Murten"
-date:   2019-02-07 23:18
-<!-- date:   2018-10-18 21:56 -->
+date:   2018-10-18 21:56
+<!-- date:   2019-02-07 23:18 -->
 categories: travel
 location: Bern, Switzerland
 ---

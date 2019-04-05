@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Hike to  Chalet de Narderan"
-date:   2018-10-18 10:00
-<!-- date:   2018-09-22 10:00 -->
+date:   2018-09-22 10:00
 categories: travel
 location: Le Tiocan, Thoiry, France
 ---

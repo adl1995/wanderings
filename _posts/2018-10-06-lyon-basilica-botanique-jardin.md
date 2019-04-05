@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Basilica of Notre-Dame de Fourvière, Jardin botanique, and the city of Lyon"
-date:   2018-11-20 21:54
-<!-- date:   2018-19-06 09:00 -->
+date:   2018-10-06 09:00
+<!-- date:   2018-11-20 21:54 -->
 categories: travel
 location: Lyon, France
 ---
