@@ -5,15 +5,15 @@
     <description></description>
     <link>http://localhost:4000/wanderings/</link>
     <atom:link href="http://localhost:4000/wanderings/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Apr 2020 09:20:49 +0500</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2020 09:20:49 +0500</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2020 19:01:49 +0500</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2020 19:01:49 +0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Trip to Spain</title>
         <description>&lt;!-- &lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1wKtBBTaog3GAnZF2xEiMzZuhY68LFedJ&amp;hl=en&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt; --&gt;
 
-&lt;p&gt;&lt;img style=&quot;float: left;&quot; src=&quot;/photos/maps/spain-trip-animated.svg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: left;&quot; src=&quot;/wanderings/photos/maps/spain-trip-animated.svg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
 During the Christmas holidays in December 2018, I visited Spain and spent 2 weeks travelling along the coastal cities.&lt;/p&gt;
@@ -23,7 +23,7 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #d9edf7;&quot;&gt;
   &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/barcelona&quot;&gt;
-   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/barcelona-16-12-2018/161218_170340_IMG0242_raw.JPG&quot; /&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/barcelona-16-12-2018/161218_170340_IMG0242_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Barcelona&lt;/h2&gt;
    &lt;p class=&quot;blog-summary&quot;&gt;I started my journey from this beautiful (but crowded) city. Soon after landing I rented a bike and spent the next 2 days exploring the old town and other historical buildings.&lt;/p&gt;
  &lt;/a&gt;
@@ -31,7 +31,7 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #719bea;&quot;&gt;
   &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/girona&quot;&gt;
-   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/girona-17-12-2018/171218_174357_IMG0529_raw.JPG&quot; /&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/girona-17-12-2018/171218_174357_IMG0529_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Girona&lt;/h2&gt;
    &lt;p class=&quot;blog-summary&quot;&gt;At just an hours' train ride from Barcelona is the scenic city of Girona, a small town whose cathedral was featured in the Game of Thrones series.&lt;/p&gt;
  &lt;/a&gt;
@@ -39,7 +39,7 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #cee3a6;&quot;&gt;
   &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/valencia&quot;&gt;
-   &lt;img class=&quot;blog-item-img portrait&quot; src=&quot;/photos/spain/valencia-18-12-2018/181218_164154_IMG0800_raw.JPG&quot; /&gt;
+   &lt;img class=&quot;blog-item-img portrait&quot; src=&quot;/wanderings/photos/spain/valencia-18-12-2018/181218_164154_IMG0800_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Valencia&lt;/h2&gt;
    &lt;p class=&quot;blog-summary&quot;&gt;A city with numerous promenades laden with orange trees and graffiti drawings, Valencia had much to offer.&lt;/p&gt;
  &lt;/a&gt;
@@ -47,7 +47,7 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #d2b9b8;&quot;&gt;
   &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/cartagena&quot;&gt;
-   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/cartagena-19-12-2018/191218_170433_IMG1064_raw.JPG&quot; /&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/cartagena-19-12-2018/191218_170433_IMG1064_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Cartagena&lt;/h2&gt;
    &lt;p class=&quot;blog-summary&quot;&gt;A port city with an iconic view of the sea, Cartagena was a laid-back and fascinating city. Some prominent destinations included the Roman Theatre and a university.&lt;/p&gt;
  &lt;/a&gt;
@@ -55,7 +55,7 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #f4c7b0;&quot;&gt;
   &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/almeria&quot;&gt;
-   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/photos/spain/almeria-20-12-2018/201218_161435_IMG1415_raw.JPG&quot; /&gt;
+   &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/almeria-20-12-2018/201218_161435_IMG1415_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Almería&lt;/h2&gt;
    &lt;p class=&quot;blog-summary&quot;&gt;A quiet city with a colourful Christmas market, sandy beaches, and a spectacular fortress from the Moorish era.&lt;/p&gt;
  &lt;/a&gt;
