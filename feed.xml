@@ -3,10 +3,10 @@
   <channel>
     <title>Wanderings</title>
     <description></description>
-    <link>http://localhost:4000/wanderings/</link>
-    <atom:link href="http://localhost:4000/wanderings/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Apr 2020 19:01:49 +0500</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2020 19:01:49 +0500</lastBuildDate>
+    <link>/wanderings/</link>
+    <atom:link href="/wanderings/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 19 Apr 2020 08:39:45 +0500</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2020 08:39:45 +0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -22,7 +22,7 @@ During the Christmas holidays in December 2018, I visited Spain and spent 2 week
 I started my journey in Barcelona, where I spent 2 days which also included a day trip to Girona. Girona recently gained traction for being the shooting spot for the Game of Thrones series. From Barcelona, I took a train along the coast to Valencia, and after soaking its splendour I visited a small historical town called Cartagena, and then made my way to a famous beach town, named Almería. I imagined the south of Spain to be warmer compared to the north, but was surprised to find snow on mountain tops in Granada. It even had a ski resort up there. Nerja was also a beautiful city with white houses where many retirees lived from the UK and abroad. I ended my trip in the port city of Malaga where I spent just one night and then flew to Belgium. In total I spent 7 nights in Spain, renting out AirBnBs in each city I visited.&lt;/p&gt;
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #d9edf7;&quot;&gt;
-  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/barcelona&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/wanderings/spain/barcelona&quot;&gt;
    &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/barcelona-16-12-2018/161218_170340_IMG0242_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Barcelona&lt;/h2&gt;
    &lt;p class=&quot;blog-summary&quot;&gt;I started my journey from this beautiful (but crowded) city. Soon after landing I rented a bike and spent the next 2 days exploring the old town and other historical buildings.&lt;/p&gt;
@@ -30,34 +30,34 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #719bea;&quot;&gt;
-  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/girona&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/wanderings/spain/girona&quot;&gt;
    &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/girona-17-12-2018/171218_174357_IMG0529_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Girona&lt;/h2&gt;
-   &lt;p class=&quot;blog-summary&quot;&gt;At just an hours' train ride from Barcelona is the scenic city of Girona, a small town whose cathedral was featured in the Game of Thrones series.&lt;/p&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;At just an hours' train ride from Barcelona is the scenic city of Girona. It's a small town whose cathedral was featured in the Game of Thrones series.&lt;/p&gt;
  &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #cee3a6;&quot;&gt;
-  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/valencia&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/wanderings/spain/valencia&quot;&gt;
    &lt;img class=&quot;blog-item-img portrait&quot; src=&quot;/wanderings/photos/spain/valencia-18-12-2018/181218_164154_IMG0800_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Valencia&lt;/h2&gt;
-   &lt;p class=&quot;blog-summary&quot;&gt;A city with numerous promenades laden with orange trees and graffiti drawings, Valencia had much to offer.&lt;/p&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;A city with numerous promenades laden with Orange trees and graffiti drawings, Valencia had much to offer.&lt;/p&gt;
  &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #d2b9b8;&quot;&gt;
-  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/cartagena&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/wanderings/spain/cartagena&quot;&gt;
    &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/cartagena-19-12-2018/191218_170433_IMG1064_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Cartagena&lt;/h2&gt;
-   &lt;p class=&quot;blog-summary&quot;&gt;A port city with an iconic view of the sea, Cartagena was a laid-back and fascinating city. Some prominent destinations included the Roman Theatre and a university.&lt;/p&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;A port city with an iconic view of the sea. Cartagena was a laid-back and fascinating city. Some prominent destinations included the Roman Theatre and a university.&lt;/p&gt;
  &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog-item&quot; style=&quot;background-color: #f4c7b0;&quot;&gt;
-  &lt;a style=&quot;color: inherit;&quot; href=&quot;/spain/almeria&quot;&gt;
+  &lt;a style=&quot;color: inherit;&quot; href=&quot;/wanderings/spain/almeria&quot;&gt;
    &lt;img class=&quot;blog-item-img horizontal&quot; src=&quot;/wanderings/photos/spain/almeria-20-12-2018/201218_161435_IMG1415_raw.JPG&quot; /&gt;
    &lt;h2 class=&quot;post-title&quot;&gt;Almería&lt;/h2&gt;
-   &lt;p class=&quot;blog-summary&quot;&gt;A quiet city with a colourful Christmas market, sandy beaches, and a spectacular fortress from the Moorish era.&lt;/p&gt;
+   &lt;p class=&quot;blog-summary&quot;&gt;A quiet city with a colourful Christmas market, sandy beaches, and a spectacular fortress dating back to the Moorish rule of Spain.&lt;/p&gt;
  &lt;/a&gt;
 &lt;/div&gt;
 
@@ -95,8 +95,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 
 </description>
         <pubDate>Mon, 17 Dec 2018 09:00:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/spain</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/spain</guid>
+        <link>/wanderings/spain</link>
+        <guid isPermaLink="true">/wanderings/spain</guid>
         
         
         <category>travel</category>
@@ -440,8 +440,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 03 Nov 2018 08:00:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/sion-vex</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/sion-vex</guid>
+        <link>/wanderings/sion-vex</link>
+        <guid isPermaLink="true">/wanderings/sion-vex</guid>
         
         
         <category>travel</category>
@@ -895,8 +895,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 18 Oct 2018 21:56:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/bern-fribourg-murten</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/bern-fribourg-murten</guid>
+        <link>/wanderings/bern-fribourg-murten</link>
+        <guid isPermaLink="true">/wanderings/bern-fribourg-murten</guid>
         
         
         <category>travel</category>
@@ -1046,8 +1046,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 07 Oct 2018 09:00:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/lyon-vintage-shop</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/lyon-vintage-shop</guid>
+        <link>/wanderings/lyon-vintage-shop</link>
+        <guid isPermaLink="true">/wanderings/lyon-vintage-shop</guid>
         
         
         <category>travel</category>
@@ -1299,8 +1299,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 06 Oct 2018 09:00:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/lyon-basilica-botanique-jardin</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/lyon-basilica-botanique-jardin</guid>
+        <link>/wanderings/lyon-basilica-botanique-jardin</link>
+        <guid isPermaLink="true">/wanderings/lyon-basilica-botanique-jardin</guid>
         
         
         <category>travel</category>
@@ -1464,8 +1464,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 30 Sep 2018 14:02:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/visit-to-la-cathedrale-de-lausanne</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/visit-to-la-cathedrale-de-lausanne</guid>
+        <link>/wanderings/visit-to-la-cathedrale-de-lausanne</link>
+        <guid isPermaLink="true">/wanderings/visit-to-la-cathedrale-de-lausanne</guid>
         
         
         <category>travel</category>
@@ -1615,8 +1615,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 29 Sep 2018 16:55:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/marche-de-plainpalais</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/marche-de-plainpalais</guid>
+        <link>/wanderings/marche-de-plainpalais</link>
+        <guid isPermaLink="true">/wanderings/marche-de-plainpalais</guid>
         
         
         <category>travel</category>
@@ -1742,8 +1742,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 22 Sep 2018 10:00:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/hike-to-chalet-de-narderan</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/hike-to-chalet-de-narderan</guid>
+        <link>/wanderings/hike-to-chalet-de-narderan</link>
+        <guid isPermaLink="true">/wanderings/hike-to-chalet-de-narderan</guid>
         
         
         <category>travel</category>
@@ -1869,8 +1869,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 16 Sep 2018 18:50:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/sunrise-choully</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/sunrise-choully</guid>
+        <link>/wanderings/sunrise-choully</link>
+        <guid isPermaLink="true">/wanderings/sunrise-choully</guid>
         
         
         <category>travel</category>
@@ -2036,8 +2036,8 @@ I started my journey in Barcelona, where I spent 2 days which also included a da
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 09 Sep 2018 21:56:00 +0500</pubDate>
-        <link>http://localhost:4000/wanderings/foyer-schumann</link>
-        <guid isPermaLink="true">http://localhost:4000/wanderings/foyer-schumann</guid>
+        <link>/wanderings/foyer-schumann</link>
+        <guid isPermaLink="true">/wanderings/foyer-schumann</guid>
         
         
         <category>travel</category>
