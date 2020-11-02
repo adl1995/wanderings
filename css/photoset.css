@@ -51,7 +51,7 @@ a:hover{
 }
 	.photoset .photoset-row:last-child { margin: 0; }
 .photoset .photoset-item {
-  /* max-height: 650px; */
+        max-height: 650px;
 	display: block;
 	float: left;
 	margin: 0 .25rem;
