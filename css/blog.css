@@ -43,6 +43,21 @@ img.blog-item-img-full.portrait {
   height: 262.5px;
 }
 
+img.blog-item-img-full-small-margin {
+  display: block;
+  margin: -35px auto 15px auto;
+}
+
+img.blog-item-img-full-small-margin.horizontal {
+  width: 750px;
+  height: auto;
+}
+
+img.blog-item-img-full-small-margin.portrait {
+  width: auto;
+  height: 262.5px;
+}
+
 p.blog-summary {
   margin-right: 15px;
   text-decoration: none !important;
