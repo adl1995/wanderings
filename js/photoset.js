@@ -34,16 +34,17 @@ $(function() {
 	// Detect resize event
 	$(window).smartresize(function () {
     // If loading is complete, hide images
-    if(loadComplete) $('.photoset img').hide();
+    // if(loadComplete) $('.photoset img').hide();
 
     // Detect viewport size
     if($(window).width() > 768) {
+      console.log("$(window).width(): ", $(window).width());
 
 		// Set photoset image size
 		$('.photoset-row').each(function () {
 			var $pi    = $(this).find('.photoset-item'),
-          cWidth = $('.blog-item').width();
-				  // cWidth = $(this).parent('.photoset').width();
+          // cWidth = $('.blog-item').width();
+				  cWidth = $(this).parent('.photoset').width();
 
 			// Generate array containing all image aspect ratios
 			var ratios = $pi.map(function () {
