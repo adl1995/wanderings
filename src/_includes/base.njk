@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ site.language }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{% if title and not home %}{{ title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ description or summary or site.description }}" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url | url }}" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/js/photoswipe/photoswipe.css" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="{{ site.title }}"
+      href="/feed.xml"
+    />
+
+    <meta property="og:type" content="{% if home %}website{% else %}article{% endif %}" />
+    <meta property="og:title" content="{{ title or site.title }}" />
+    <meta property="og:description" content="{{ description or summary or site.description }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url | url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="banner" href="/" aria-label="{{ site.title }} — home"></a>
+      {% if home %}
+        <h1 class="site-title">{{ site.title }}</h1>
+      {% else %}
+        <p class="site-title"><a href="/">{{ site.title }}</a></p>
+      {% endif %}
+    </header>
+
+    <main id="main">{{ content | safe }}</main>
+
+    <footer class="site-footer">
+      <nav class="social" aria-label="Social links">
+        <a href="{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
+        <a href="{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+      <p class="legal">© {{ site.title }}</p>
+    </footer>
+
+    <script type="module" src="/js/lightbox.mjs"></script>
+  </body>
+</html>
