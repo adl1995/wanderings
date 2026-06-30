@@ -1,0 +1,26 @@
+---
+layout: post.njk
+title: Ski Resorts in France
+date: 2020-11-01
+location: France
+hero: /photos/french-ski-resorts/le-grand-bornand/12012019_160126_IMG4589_raw.webp
+summary: Over the winter of 2019 I learned to ski, visiting seven resorts across the French Alps.
+permalink: /ski-resorts/
+tags: post
+---
+
+<p>Over the winter of 2019 I learned to ski, visiting seven resorts across the French Alps. Each one had its own character — they are collected here in the order I visited them.</p>
+
+<section class="post-list">
+  {% for resort in collections.ski %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ resort.url }}">
+        {% if resort.data.hero %}
+          {% thumb resort.data.hero, resort.data.title, "(max-width: 700px) 90vw, 22rem", "post-card-img" %}
+        {% endif %}
+        <h2 class="post-card-title">{{ resort.data.title }}</h2>
+      </a>
+      {% if resort.data.summary %}<p class="post-card-summary">{{ resort.data.summary }}</p>{% endif %}
+    </article>
+  {% endfor %}
+</section>

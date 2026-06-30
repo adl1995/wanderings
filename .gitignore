@@ -1,1 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output
+_site/
+
+# Eleventy image cache (regenerated at build time)
+.cache/
+
+# OS / editor cruft
+.DS_Store
+*.log
+npm-debug.log*
+
+# Legacy
 scripts/
+

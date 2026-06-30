@@ -1,0 +1,32 @@
+---
+layout: post.njk
+title: Trip to Spain
+date: 2018-12-17
+location: Catalonia, Spain
+hero: /photos/spain/barcelona/161218_170340_IMG0242_raw.JPG
+summary: During the Christmas holidays in December 2018, I spent two weeks travelling along the coastal cities of Spain.
+permalink: /spain/
+tags: post
+---
+
+<p style="text-align:center">
+  <img src="/photos/spain/trip-animated.svg" alt="Animated map of the route taken across Spain" width="320" loading="lazy" decoding="async" />
+</p>
+
+<p>During the Christmas holidays in December 2018, I visited Spain and spent two weeks travelling along the coastal cities.</p>
+
+<p>I started my journey in Barcelona, where I spent two days which also included a day trip to Girona — a small town that recently gained traction for being a shooting location for the Game of Thrones series. From Barcelona I took a train along the coast to Valencia, and after soaking up its splendour I visited a small historical town called Cartagena, and then made my way to the beach town of Almería. I imagined the south of Spain to be warmer than the north, but was surprised to find snow on the mountain tops near Granada.</p>
+
+<section class="post-list">
+  {% for city in collections.spain %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ city.url }}">
+        {% if city.data.hero %}
+          {% thumb city.data.hero, city.data.title, "(max-width: 700px) 90vw, 22rem", "post-card-img" %}
+        {% endif %}
+        <h2 class="post-card-title">{{ city.data.title }}</h2>
+      </a>
+      {% if city.data.summary %}<p class="post-card-summary">{{ city.data.summary }}</p>{% endif %}
+    </article>
+  {% endfor %}
+</section>
