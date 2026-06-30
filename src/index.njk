@@ -1,0 +1,26 @@
+---
+layout: base.njk
+home: true
+title: Wanderings
+pagination:
+  data: collections.post
+  size: 6
+  alias: posts
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page{{ pagination.pageNumber + 1 }}/{% endif %}"
+---
+<section class="post-list">
+  {% for post in posts %}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ post.url }}">
+        {% if post.data.hero %}
+          {% thumb post.data.hero, post.data.title, "(max-width: 700px) 90vw, 22rem", "post-card-img" %}
+        {% endif %}
+        <h2 class="post-card-title">{{ post.data.title }}</h2>
+      </a>
+      {% if post.data.summary %}<p class="post-card-summary">{{ post.data.summary }}</p>{% endif %}
+      <time class="post-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    </article>
+  {% endfor %}
+</section>
+
+{% include "pagination.njk" %}

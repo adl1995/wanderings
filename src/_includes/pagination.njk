@@ -1,0 +1,23 @@
+{% if pagination.pages.length > 1 %}
+  <nav class="pagination" aria-label="Pagination">
+    {% if pagination.href.previous %}
+      <a href="{{ pagination.href.previous }}" rel="prev">← Newer</a>
+    {% else %}
+      <span class="is-disabled">← Newer</span>
+    {% endif %}
+
+    {% for pageEntry in pagination.pages %}
+      {% if loop.index0 == pagination.pageNumber %}
+        <a href="{{ pagination.hrefs[loop.index0] }}" aria-current="page">{{ loop.index }}</a>
+      {% else %}
+        <a href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if pagination.href.next %}
+      <a href="{{ pagination.href.next }}" rel="next">Older →</a>
+    {% else %}
+      <span class="is-disabled">Older →</span>
+    {% endif %}
+  </nav>
+{% endif %}

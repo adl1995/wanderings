@@ -1,0 +1,27 @@
+{
+  "name": "wanderings",
+  "version": "2.0.0",
+  "description": "Wanderings — a personal travel photo blog, built with Eleventy.",
+  "type": "module",
+  "license": "MIT",
+  "author": "adl1995",
+  "scripts": {
+    "clean": "rm -rf _site",
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=Eleventy* eleventy",
+    "migrate": "node tools/migrate.mjs",
+    "reorg:photos": "node tools/reorg-photos.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^5.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "node-html-parser": "^6.1.13",
+    "sharp": "^0.33.5"
+  },
+  "dependencies": {
+    "photoswipe": "^5.4.4"
+  }
+}

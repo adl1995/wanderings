@@ -1,0 +1,28 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ title }}</h1>
+    {% if date %}
+      <time class="post-date" datetime="{{ date | htmlDateString }}">Published {{ date | readableDate }}</time>
+    {% endif %}
+    {% if tripDate %}
+      <time class="post-date" datetime="{{ tripDate | htmlDateString }}">Trip date {{ tripDate | readableDate }}</time>
+    {% endif %}
+  </header>
+
+  <div class="post-body">{{ content | safe }}</div>
+
+  {% if location %}
+    <footer class="post-footer">
+      <a
+        class="post-footer-location"
+        href="https://www.google.com/maps/search/{{ location | urlencode }}"
+        target="_blank"
+        rel="noopener"
+        >{{ location }}</a
+      >
+    </footer>
+  {% endif %}
+</article>
