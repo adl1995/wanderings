@@ -106,6 +106,8 @@ export default async function (eleventyConfig) {
     "css/main.css": "css/main.css",
     "js/lightbox.mjs": "js/lightbox.mjs",
     "node_modules/photoswipe/dist": "js/photoswipe",
+    // Tell GitHub Pages not to run Jekyll over the built output.
+    ".nojekyll": ".nojekyll",
   });
 
   eleventyConfig.addWatchTarget("./css/");
