@@ -1,0 +1,12 @@
+{
+  "title": "Wanderings",
+  "description": "A personal travel photo blog — wanderings around Europe, the Middle East, and South Asia.",
+  "url": "https://adl1995.github.io",
+  "pathPrefix": "/wanderings/",
+  "author": {
+    "name": "adl1995",
+    "github": "https://github.com/adl1995",
+    "twitter": "https://twitter.com/adl1995"
+  },
+  "language": "en"
+}
