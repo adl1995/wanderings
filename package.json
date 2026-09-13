@@ -12,7 +12,8 @@
     "serve": "eleventy --serve",
     "debug": "DEBUG=Eleventy* eleventy",
     "migrate": "node tools/migrate.mjs",
-    "reorg:photos": "node tools/reorg-photos.mjs"
+    "reorg:photos": "node tools/reorg-photos.mjs",
+    "downscale:photos": "node tools/downscale-photos.mjs"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
