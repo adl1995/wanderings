@@ -26,19 +26,30 @@ const PHOTOS = path.join(ROOT, "photos");
 
 const MAX_EDGE = Number(process.env.MAX_EDGE || 2048);
 const QUALITY = Number(process.env.QUALITY || 80);
+// Also re-encode any image over this byte size even if its dimensions already
+// fit, so nothing stays large enough to bloat the repo.
+const MAX_BYTES = Number(process.env.MAX_BYTES || 1024 * 1024);
 const DRY_RUN = process.argv.includes("--dry-run");
 
-const JPEG_RE = /\.jpe?g$/i;
+const IMAGE_RE = /\.(jpe?g|webp|png)$/i;
 
-/** Recursively collect all JPEG files under a directory. */
-function collectJpegs(dir) {
+/** Recursively collect all raster photos (jpeg/webp/png) under a directory. */
+function collectImages(dir) {
   const out = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) out.push(...collectJpegs(full));
-    else if (entry.isFile() && JPEG_RE.test(entry.name)) out.push(full);
+    if (entry.isDirectory()) out.push(...collectImages(full));
+    else if (entry.isFile() && IMAGE_RE.test(entry.name)) out.push(full);
   }
   return out;
+}
+
+/** Re-encode with the same on-disk format so file references stay valid. */
+function encodeSameFormat(pipeline, file) {
+  const ext = path.extname(file).toLowerCase();
+  if (ext === ".webp") return pipeline.webp({ quality: QUALITY });
+  if (ext === ".png") return pipeline.png({ compressionLevel: 9, palette: true });
+  return pipeline.jpeg({ quality: QUALITY, mozjpeg: true });
 }
 
 /** Long edge in display orientation (accounts for EXIF rotation). */
@@ -67,7 +78,7 @@ async function processFile(file) {
     return { before, after: before, resized: false };
   }
 
-  if (longEdge(meta) <= MAX_EDGE) {
+  if (longEdge(meta) <= MAX_EDGE && before <= MAX_BYTES) {
     return { before, after: before, resized: false };
   }
 
@@ -77,11 +88,12 @@ async function processFile(file) {
   }
 
   // Encode to a buffer first so a failure can never truncate the original.
-  const buffer = await sharp(file)
-    .rotate() // bake in EXIF orientation, then reset the tag
-    .resize({ width: MAX_EDGE, height: MAX_EDGE, fit: "inside", withoutEnlargement: true })
-    .jpeg({ quality: QUALITY, mozjpeg: true })
-    .toBuffer();
+  const buffer = await encodeSameFormat(
+    sharp(file)
+      .rotate() // bake in EXIF orientation, then reset the tag
+      .resize({ width: MAX_EDGE, height: MAX_EDGE, fit: "inside", withoutEnlargement: true }),
+    file
+  ).toBuffer();
 
   fs.writeFileSync(file, buffer);
   const after = buffer.length;
@@ -95,10 +107,10 @@ async function main() {
     process.exit(1);
   }
 
-  const files = collectJpegs(PHOTOS);
+  const files = collectImages(PHOTOS);
   console.log(
-    `${DRY_RUN ? "[dry-run] " : ""}Scanning ${files.length} JPEGs — ` +
-      `cap ${MAX_EDGE}px, quality ${QUALITY}\n`
+    `${DRY_RUN ? "[dry-run] " : ""}Scanning ${files.length} images — ` +
+      `cap ${MAX_EDGE}px, quality ${QUALITY}, max ${fmtBytes(MAX_BYTES)}\n`
   );
 
   let totalBefore = 0;
